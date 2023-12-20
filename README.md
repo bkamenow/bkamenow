@@ -20,10 +20,8 @@ I'm always looking for ways to make a positive impact.
 
 <img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg" />
 
 <img align="left" alt="Amazon Web Services" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968919.png" style="padding-right:10px;" />
 
 <img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 
