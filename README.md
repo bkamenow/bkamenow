@@ -4,7 +4,7 @@ I am a passionate **software developer**, enthusiastic **learner**, and a dedica
 
 I'm always looking for ways to make a positive impact.
 
-- 🌱 I’m currently learning **React**
+- 🌱 Growth is the Key to **Success**
 - 💬 Ask me about **Web development**
 - ⚡ Fun fact: **I can't code if I'm hungry**
 
